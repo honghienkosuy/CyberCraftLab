@@ -1,3 +1,1 @@
-const word = "hello";
-const reversedWord = word.split("").reverse().join("");
-console.log(reversedWord); // olleh
+const sum = (a, b) => a + b;
